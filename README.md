@@ -64,5 +64,6 @@ https://voidlinux.org/
   
 </div>
 
-![snake gif](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg)
+
+<!-- ![snake gif](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg) -->
 
