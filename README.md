@@ -1,12 +1,12 @@
 ### 😀 Seja Bem-vindo(a) 
 
 
-Trabalho com manutenção de computadores, notebook, rede, criação de site, desenvolvimentos de projetos para Linux seja Desktop ou Servidor (script, correção de codigos e etc).
+Trabalho com manutenção de computadores, notebook, rede, criação de site, desenvolvimentos de projetos para Linux seja Desktop ou Servidor (script, correção de códigos e etc).
 
 Para serviços de informática: https://tuxslack.github.io/
 
 
-Aqui encontra-se alguns projetos focados em Linux buscando sempre o minimalismo e simplicidade no desenvolvimento.
+Aqui se encontra alguns projetos focados em Linux buscando sempre o minimalismo e simplicidade no desenvolvimento.
 
 Atualmente estou trabalhando no desenvolvimento de manuais e scripts para o Void Linux no idioma pt_BR.
 
