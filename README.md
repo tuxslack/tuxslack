@@ -1,7 +1,7 @@
 ### 😀 Seja Bem-vindo(a) 
 
 
-Trabalho com manutenção de computadores, notebook, rede, criação de site, desenvolvimentos de projetos para Linux seja Desktop ou Servidor (script, correção de códigos e etc).
+Trabalho com manutenção de computadores, notebook, rede, criação de site, desenvolvimentos de projetos para Linux seja Desktop ou Servidor (script, correção de códigos e etc), Windows.
 
 Para serviços de informática: https://tuxslack.github.io/
 
