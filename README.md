@@ -4,12 +4,13 @@
 <div align="center">
  
 <img src="https://komarev.com/ghpvc/?username=tuxslack&label=Profile%20views&color=0e75b6&style=flat" alt="tuxslack"/>
-<a href="https://github.com/tuxslack/tuxslack/stargazers"><img src="https://img.shields.io/github/stars/tuxslack/tuxslack" alt="Stars Badge"/></a>
-<a href="https://github.com/tuxslack/tuxslack/network/members"><img src="https://img.shields.io/github/forks/tuxslack/tuxslack" alt="Forks Badge"/></a>
-<a href="https://github.com/tuxslack/tuxslack/pulls"><img src="https://img.shields.io/github/issues-pr/tuxslack/tuxslack" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/tuxslack/tuxslack/issues"><img src="https://img.shields.io/github/issues/tuxslack/tuxslack" alt="Issues Badge"/></a>
-<a href="https://github.com/tuxslack/tuxslack/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tuxslack/tuxslack?color=2b9348"></a>
-<a href="https://github.com/tuxslack/tuxslack/blob/main/LICENSE"><img src="https://img.shields.io/github/license/tuxslack/tuxslack?color=2b9348" alt="License Badge"/></a>
+
+<a href="https://github.com/tuxslack/tuxslack/stargazers"> <img src="https://img.shields.io/github/stars/tuxslack/tuxslack"      alt="Stars Badge"/></a> 
+<a href="https://github.com/tuxslack/tuxslack/network/members"> <img src="https://img.shields.io/github/forks/tuxslack/tuxslack" alt="Forks Badge"/></a> 
+<a href="https://github.com/tuxslack/tuxslack/pulls"> <img src="https://img.shields.io/github/issues-pr/tuxslack/tuxslack"       alt="Pull Requests Badge"/></a> 
+<a href="https://github.com/tuxslack/tuxslack/issues"> <img src="https://img.shields.io/github/issues/tuxslack/tuxslack"         alt="Issues Badge"/></a> 
+<a href="https://github.com/tuxslack/tuxslack/graphs/contributors"> <img src="https://img.shields.io/github/contributors/tuxslack/tuxslack?color=2b9348"  alt="GitHub contributors"/></a>
+<a href="https://github.com/tuxslack/tuxslack/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/tuxslack/tuxslack?color=2b9348"         alt="License Badge"/></a> 
 
 </div>
 
