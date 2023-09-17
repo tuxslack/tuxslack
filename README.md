@@ -104,9 +104,10 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 ![snake gif](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg) 
 
--->
 
 ![Snake animation](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg)
+
+-->
 
 
 ##
