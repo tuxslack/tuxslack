@@ -1,4 +1,20 @@
-### 😀 Seja Bem-vindo(a) 
+<h1> 😀 Seja Bem-vindo(a) </h1>
+
+
+<div align="center">
+ 
+<img src="https://komarev.com/ghpvc/?username=tuxslack&label=Profile%20views&color=0e75b6&style=flat" alt="tuxslack"/>
+<a href="https://github.com/tuxslack/tuxslack/stargazers"><img src="https://img.shields.io/github/stars/tuxslack/tuxslack" alt="Stars Badge"/></a>
+<a href="https://github.com/tuxslack/tuxslack/network/members"><img src="https://img.shields.io/github/forks/tuxslack/tuxslack" alt="Forks Badge"/></a>
+<a href="https://github.com/tuxslack/tuxslack/pulls"><img src="https://img.shields.io/github/issues-pr/tuxslack/tuxslack" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/tuxslack/tuxslack/issues"><img src="https://img.shields.io/github/issues/tuxslack/tuxslack" alt="Issues Badge"/></a>
+<a href="https://github.com/tuxslack/tuxslack/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tuxslack/tuxslack?color=2b9348"></a>
+<a href="https://github.com/tuxslack/tuxslack/blob/main/LICENSE"><img src="https://img.shields.io/github/license/tuxslack/tuxslack?color=2b9348" alt="License Badge"/></a>
+
+</div>
+
+
+###  
 
 Sou técnico em informática há +10 anos e também tenho técnico de contabilidade.
 
@@ -6,13 +22,12 @@ Sou mantenedor de alguns pacotes para Linux.
 
 Trabalho com manutenção de computadores, notebook, rede, criação de site, desenvolvimentos de projetos para Linux seja Desktop ou Servidor (script, correção de códigos e etc), Windows.
 
-Para serviços de informática: https://tuxslack.github.io/
-
-
 Aqui se encontra alguns projetos focados em Linux buscando sempre o minimalismo e simplicidade no desenvolvimento.
 
 Atualmente estou trabalhando nas horas vagas no desenvolvimento de manuais para o Void Linux (https://voidlinux.org/) no idioma pt_BR e em scripts para distribuições Linux.
 
+
+Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 
  🇧🇷 🇵🇹
@@ -21,10 +36,11 @@ Atualmente estou trabalhando nas horas vagas no desenvolvimento de manuais para 
 
 <!-- GITHUB STATUS -->
 
-## ⚡ Estatísticas do meu GitHub
+## ⚡ <a href="https://github.com/tuxslack"> Estatísticas do meu GitHub </a>
 
 <div align="center">
-  
+
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuxslack&show_icons=true&theme=radical&locale=en&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuxslack&show_icons=true&layout=compact&locale=en&langs_count=10&theme=radical"/>
  
@@ -52,10 +68,10 @@ Atualmente estou trabalhando nas horas vagas no desenvolvimento de manuais para 
 <img alt="Apache"        src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/> 
 <img alt="MySQL"         src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img alt="MariaDB"       src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> 
-<img align="center" alt="" height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">  
-<img align="center" alt="" height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-<img align="center" alt="C" height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
-<img align="center" alt="C" height="" width="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
+<img align="" alt="HTML" height="" width="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
+<img align="" alt="Gimp" height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">  
+<img align="" alt="JAVA" height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+<img align="" alt="C"    height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
   
 </div>
 
@@ -75,7 +91,27 @@ Atualmente estou trabalhando nas horas vagas no desenvolvimento de manuais para 
   
 </div>
 
+
+<!-- 
+
+## :snake: Contribuições do meu Github :snake:
+
+![](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg)
+
+<a href="https://activity-graph.herokuapp.com/graph?username=tuxslack"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tuxslack&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+![snake gif](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg) 
+
+![Snake animation](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg)
+
+-->
+
 ##
 
-<!-- ![snake gif](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg) -->
+<div align="center">
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=tuxslack&repo=tuxslack&theme=react)](https://github.com/tuxslack/tuxslack)
+
+</div>
 
