@@ -93,7 +93,7 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 </div>
 
 
-<!-- -->
+<!-- 
 
 ## :snake: Contribuições do meu Github :snake:
 
@@ -101,14 +101,12 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 <a href="https://activity-graph.herokuapp.com/graph?username=tuxslack"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tuxslack&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
 ![snake gif](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg) 
-
 
 
 ![Snake animation](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg)
 
-
+-->
 
 
 ##
