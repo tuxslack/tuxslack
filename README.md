@@ -69,7 +69,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 <img alt="Apache"        src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/> 
 <img alt="MySQL"         src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img alt="MariaDB"       src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> 
-<img align="" alt="HTML" height="" width="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
+<img alt="Google Cloud"  height="" width=""     src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"/>
+<img align="" alt="HTML" height="" width=""     src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
 <img align="" alt="Gimp" height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">  
 <img align="" alt="JAVA" height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 <img align="" alt="C"    height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
@@ -98,7 +99,7 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 ## :snake: Contribuições do meu Github :snake:
 
 ![](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg)
-
+4
 <a href="https://activity-graph.herokuapp.com/graph?username=tuxslack"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tuxslack&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ![snake gif](https://github.com/tuxslack/tuxslack/blob/output/github-contribution-grid-snake.svg) 
