@@ -17,6 +17,8 @@
 
 ###  
 
+## Sobre mim
+
 Sou técnico em informática há +10 anos e também tenho técnico de contabilidade.
 
 Sou mantenedor de alguns pacotes para Linux.
@@ -32,6 +34,20 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 
  🇧🇷 🇵🇹
+
+## 🚀 Projetos
+
+- [ScriptBeta](https://github.com/tuxslack/ScriptBeta): Neste projeto estão os scripts de testes, para os usuários testarem novos recursos antes do lançamento oficial.
+
+- [huawei-udev-rules](https://github.com/tuxslack/huawei-udev-rules): Suporte a modem USB da Huawei para o programa NetworkManager.
+
+- [zte-udev-rules](https://github.com/tuxslack/zte-udev-rules): Suporte a modem USB da ZTE para o programa NetworkManager.
+
+- [windows](https://github.com/tuxslack/windows): Procedimentos para manutenção do Windows (limpeza, otimização e etc...).
+
+- [void-packages](https://github.com/tuxslack/void-packages): Coleção de pacotes para o Void Linux. 
+
+<!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
 ##
 
@@ -70,10 +86,19 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 <img alt="MySQL"         src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img alt="MariaDB"       src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> 
 <img alt="Google Cloud"  height="" width=""     src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"/>
+<img alt="Java"          src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="Markdown"      src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="PHP"           src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt=""       src=""/>
+<img alt=""       src=""/>
+ 
+
+
 <img align="" alt="HTML" height="" width=""     src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
 <img align="" alt="Gimp" height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">  
-<img align="" alt="JAVA" height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 <img align="" alt="C"    height="75" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
+
+
   
 </div>
 
@@ -116,5 +141,15 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=tuxslack&repo=tuxslack&theme=react)](https://github.com/tuxslack/tuxslack)
 
-</div>
 
+<!-- Frases de Pensamentos Randômicos
+
+Steve Jobs, Edsger W. Dijkstra e outros
+
+-->
+
+### ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+</div>
