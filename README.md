@@ -37,6 +37,9 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 ## 🚀 Projetos
 
+
+- [Scripts](https://github.com/tuxslack/scripts): Neste projeto estão os scripts, usado em varias distribuições Linux.
+
 - [ScriptBeta](https://github.com/tuxslack/ScriptBeta): Neste projeto estão os scripts de testes, para os usuários testarem novos recursos antes do lançamento oficial.
 
 - [huawei-udev-rules](https://github.com/tuxslack/huawei-udev-rules): Suporte a modem USB da Huawei para o programa NetworkManager.
