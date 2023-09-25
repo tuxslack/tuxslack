@@ -19,7 +19,7 @@
 
 ## Sobre mim
 
-Sou técnico em informática há +10 anos e também tenho técnico de contabilidade.
+Sou técnico em informática há +10 anos e também tenho técnico em contabilidade.
 
 Sou mantenedor de alguns pacotes para Linux.
 
