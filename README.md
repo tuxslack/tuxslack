@@ -48,7 +48,10 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 - [windows](https://github.com/tuxslack/windows): Procedimentos para manutenção do Windows (limpeza, otimização e etc...).
 
-- [void-packages](https://github.com/tuxslack/void-packages): Coleção de pacotes para o Void Linux. 
+- [void-packages](https://github.com/tuxslack/void-packages): Coleção de pacotes para o Void Linux.
+  
+- [FDTK](https://github.com/tuxslack/FDTK): Atualização do projeto FDTK - Perícia Forense Digital.
+  
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
