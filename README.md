@@ -38,6 +38,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 ## 🚀 Projetos
 
 
+- [feh-gui](https://github.com/tuxslack/feh-gui): Interface gráfica para o feh para gerenciar os Wallpapers nos gerenciadores de janela (OpenBox, FluxBox, i3wm, awesome, bspwm)
+  
 - [Scripts](https://github.com/tuxslack/scripts): Neste projeto estão os scripts, usado em varias distribuições Linux.
 
 - [ScriptBeta](https://github.com/tuxslack/ScriptBeta): Neste projeto estão os scripts de testes, para os usuários testarem novos recursos antes do lançamento oficial.
