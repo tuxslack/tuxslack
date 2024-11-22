@@ -99,7 +99,7 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 <img alt="Java"          src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Markdown"      src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img alt="PHP"           src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="Python"        src=""/>
+<img alt="Python"        src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img alt=""       src=""/>
 <img alt=""       src=""/>
 <img alt=""       src=""/>
