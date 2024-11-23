@@ -42,6 +42,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 - [gerenciar-tema-sddm](https://github.com/tuxslack/gerenciar-tema-sddm): Gerencia tema sddm (instala, remove e testa)
   
+- [inSANE](https://github.com/tuxslack/inSANE): É um script de escaneamento simples que usa SANE para escanear documentos.
+  
 - [Scripts](https://github.com/tuxslack/scripts): Neste projeto estão os scripts, usado em varias distribuições Linux.
 
 - [ScriptBeta](https://github.com/tuxslack/ScriptBeta): Neste projeto estão os scripts de testes, para os usuários testarem novos recursos antes do lançamento oficial.
