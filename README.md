@@ -44,6 +44,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
   
 - [inSANE](https://github.com/tuxslack/inSANE): É um script de escaneamento simples que usa SANE para escanear documentos.
   
+- [Cronômetro](https://github.com/tuxslack/Cronometro): Cronômetro para Linux feito em Python
+  
 - [Scripts](https://github.com/tuxslack/scripts): Neste projeto estão os scripts, usado em varias distribuições Linux.
 
 - [ScriptBeta](https://github.com/tuxslack/ScriptBeta): Neste projeto estão os scripts de testes, para os usuários testarem novos recursos antes do lançamento oficial.
