@@ -37,6 +37,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 ## 🚀 Projetos
 
+- [tint2-conf](https://github.com/tuxslack/tint2-conf): Arquivo de configuração do painel Tint2.
+  
 - [bl-obthemes](https://github.com/tuxslack/bl-obthemes): Um utilitário para salvar e restaurar facilmente coleções de configurações de temas do OpenBox e do FluxBox. 
   
 - [feh-gui](https://github.com/tuxslack/feh-gui): Interface gráfica para o feh para gerenciar os Wallpapers nos gerenciadores de janela (OpenBox, FluxBox, i3wm, awesome, bspwm).
