@@ -64,6 +64,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 - [void-packages](https://github.com/tuxslack/void-packages): Coleção de pacotes para o Void Linux.
   
 - [FDTK](https://github.com/tuxslack/FDTK): Atualização do projeto FDTK - Perícia Forense Digital.
+
+- [ubuntu-debullshit](https://github.com/tuxslack/ubuntu-debullshit): Para deixar o Ubuntu mais puro.
   
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
