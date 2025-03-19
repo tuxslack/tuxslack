@@ -66,7 +66,7 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 - [FDTK](https://github.com/tuxslack/FDTK): Atualização do projeto FDTK - Perícia Forense Digital.
 
 - [ubuntu-debullshit](https://github.com/tuxslack/ubuntu-debullshit): Para deixar o Ubuntu mais puro.
-- 
+ 
 - [ytouchpad](https://github.com/tuxslack/ytouchpad): Para quem deseja controlar o touchpad de forma automatizada e fácil (Habilita, desabilita ou exiba o status do touchpad).
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
