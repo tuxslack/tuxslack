@@ -67,7 +67,7 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 - [ubuntu-debullshit](https://github.com/tuxslack/ubuntu-debullshit): Para deixar o Ubuntu mais puro.
  
-- [ytouchpad](https://github.com/tuxslack/ytouchpad): Para quem deseja controlar o touchpad de forma automatizada e fácil (Habilita, desabilita ou exiba o status do touchpad).
+- [ytouchpad](https://github.com/tuxslack/ytouchpad): Para quem deseja controlar o touchpad de forma automatizada e fácil (habilita, desabilita ou exiba o status do touchpad).
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
