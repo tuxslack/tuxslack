@@ -68,6 +68,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 - [ubuntu-debullshit](https://github.com/tuxslack/ubuntu-debullshit): Para deixar o Ubuntu mais puro.
  
 - [ytouchpad](https://github.com/tuxslack/ytouchpad): Para quem deseja controlar o touchpad de forma automatizada e fácil (habilita, desabilita ou exiba o status do touchpad).
+- 
+- [notify_sync](https://github.com/tuxslack/notify_sync): Cansado de saber quanto tempo demorará para o "sync" terminar e podermos finalmente remover o pendrive sem corromper o que está sendo copiado?
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
