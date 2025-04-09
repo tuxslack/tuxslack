@@ -37,6 +37,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 ## 🚀 Projetos
 
+- [Nitrogen] (https://github.com/tuxslack/nitrogen): É uma ferramenta leve para gerenciar e definir papéis de parede em gerenciadores de janela, como FluxBox, Openbox, i3WM, Awesome e outros.
+  
 - [tint2-conf](https://github.com/tuxslack/tint2-conf): Arquivo de configuração do painel Tint2.
   
 - [bl-obthemes](https://github.com/tuxslack/bl-obthemes): Um utilitário para salvar e restaurar facilmente coleções de configurações de temas do OpenBox e do FluxBox. 
