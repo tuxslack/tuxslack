@@ -74,6 +74,9 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 - [notify_sync](https://github.com/tuxslack/notify_sync): Cansado de saber quanto tempo demorará para o "sync" terminar e podermos finalmente remover o pendrive sem corromper o que está sendo copiado?
 
 - [Bíblia Offline](https://github.com/tuxslack/biblia-offline): Uma Bíblia Offline em Python com a interface gráfica QT (anotações, busca recursiva por palavra em todos os livros.)
+  
+- [pjecalc-instalador](https://github.com/tuxslack/pjecalc-instalador): Script que descompacta o .exe do Pjecalc e faz funcionar no Linux sem precisar do Wine.
+
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
