@@ -76,7 +76,9 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 - [Bíblia Offline](https://github.com/tuxslack/biblia-offline): Uma Bíblia Offline em Python com a interface gráfica QT (anotações, busca recursiva por palavra em todos os livros.)
   
 - [pjecalc-instalador](https://github.com/tuxslack/pjecalc-instalador): Script que descompacta o .exe do Pjecalc e faz funcionar no Linux sem precisar do Wine.
-
+  
+- [arch-linux](https://github.com/tuxslack/arch-linux): Repositório de scripts, tutoriais e dicas para Arch Linux.
+  
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
