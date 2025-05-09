@@ -79,6 +79,9 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
   
 - [arch-linux](https://github.com/tuxslack/arch-linux): Repositório de scripts, tutoriais e dicas para Arch Linux.
   
+- [freeze-xfce4-panel](https://github.com/tuxslack/freeze-xfce4-panel): Congelar e descongelar o painel do Xfce em distros baseada em Debian.
+
+  
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
