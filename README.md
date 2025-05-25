@@ -81,7 +81,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
   
 - [freeze-xfce4-panel](https://github.com/tuxslack/freeze-xfce4-panel): Congelar e descongelar o painel do Xfce em distros baseada em Debian.
 
-  
+- [labwc-config](https://github.com/tuxslack/labwc-config): Configurações para o labwc (Wayland).
+
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
