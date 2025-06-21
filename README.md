@@ -83,6 +83,7 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 - [labwc-config](https://github.com/tuxslack/labwc-config): Configurações para o labwc (Wayland).
 
+- [mako](https://github.com/tuxslack/mako):  Gerencia temas Mako.
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
