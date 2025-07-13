@@ -85,7 +85,13 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 - [mako](https://github.com/tuxslack/mako):  Gerencia temas Mako.
 
+- [rofi wifi menu](https://github.com/tuxslack/rofi-wifi-menu): Gerencia rede wifi pelo Rofi.
+  
+- [wofi wifi menu](https://github.com/tuxslack/wofi-wifi-menu): Gerencia rede wifi pelo Wofi.
+  
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
+
+
 
 ##
 
