@@ -89,8 +89,11 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
   
 - [wofi wifi menu](https://github.com/tuxslack/wofi-wifi-menu): Gerencia rede wifi pelo Wofi.
 
-- [sway-conf](https://github.com/tuxslack/sway-conf): Este repositório contém uma série de configurações personalizadas para o Sway, o gerenciador de janelas para Wayland. 
-  
+- [sway-conf](https://github.com/tuxslack/sway-conf): Este repositório contém uma série de configurações personalizadas para o Sway, o gerenciador de janelas para Wayland.
+
+- [Ações personalizadas](https://github.com/tuxslack/acoes-personalizadas): Ações personalizadas para gerenciadores de arquivos.
+
+
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
 
