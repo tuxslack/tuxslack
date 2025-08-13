@@ -93,7 +93,7 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 - [Ações personalizadas](https://github.com/tuxslack/acoes-personalizadas): Ações personalizadas para gerenciadores de arquivos.
 
-- [Debloated Samsung](https://github.com/tuxslack/debloated_Samsung): DesBloatwarizando seu Samsung com script.
+- [Debloat Android](https://github.com/tuxslack/debloat-android): DesBloatwarizando seu Android com script.
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
