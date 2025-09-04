@@ -95,7 +95,9 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 - [Debloat Android](https://github.com/tuxslack/debloat-android): DesBloatwarizando seu Android com script.
 
-- [VoidBR](https://github.com/tuxslack/VoidBR): Criador de imagens do Void Linux adaptado ao Brasil. 
+- [VoidBR](https://github.com/tuxslack/VoidBR): Criador de imagens do Void Linux adaptado ao Brasil.
+
+- [xmirror](https://github.com/tuxslack/xmirror): Script interativo para alterar espelhos XBPS. 
   
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
