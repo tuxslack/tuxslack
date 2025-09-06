@@ -98,6 +98,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 - [VoidBR](https://github.com/tuxslack/VoidBR): Criador de imagens do Void Linux adaptado ao Brasil.
 
 - [xmirror](https://github.com/tuxslack/xmirror): Script interativo para alterar espelhos XBPS. 
+
+- [xdeb](https://github.com/tuxslack/xdeb): xdeb é um shell script para converter pacotes .deb (Debian) para o formato .xbps (Void Linux).
   
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
