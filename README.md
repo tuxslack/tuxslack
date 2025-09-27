@@ -101,7 +101,9 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 - [xdeb](https://github.com/tuxslack/xdeb): É um shell script para converter pacotes .deb (Debian) para o formato .xbps (Void Linux).
 
-- [xbps](https://github.com/tuxslack/xbps): Tradução dos comandos do Void Linux para o Português do Brasil (pt_BR)
+- [xbps](https://github.com/tuxslack/xbps): Tradução dos comandos do Void Linux para o Português do Brasil (pt_BR).
+
+- [webcam-gphoto2](https://github.com/tuxslack/webcam-gphoto2): gphoto2 só funciona com câmeras digitais que usam o protocolo PTP/MTP.
   
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
