@@ -104,6 +104,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 - [xbps](https://github.com/tuxslack/xbps): Tradução dos comandos do Void Linux para o Português do Brasil (pt_BR).
 
 - [webcam-gphoto2](https://github.com/tuxslack/webcam-gphoto2): gphoto2 só funciona com câmeras digitais que usam o protocolo PTP/MTP.
+
+- [Ajusta brilho](https://github.com/tuxslack/ajusta_brilho): Para aumentar ou diminuir o brilho da tela do seu monitor externo ou principal.
   
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
