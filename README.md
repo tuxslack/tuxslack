@@ -106,7 +106,7 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 - [webcam-gphoto2](https://github.com/tuxslack/webcam-gphoto2): gphoto2 só funciona com câmeras digitais que usam o protocolo PTP/MTP.
 
 - [Ajusta brilho](https://github.com/tuxslack/ajusta_brilho): Para aumentar ou diminuir o brilho da tela do seu monitor externo ou principal.
-- 
+  
 - [Facilitador Linux](https://github.com/tuxslack/facilitador-linux): Aplicativo para auxílio da instalação de programas da receita federal, estadual e prefeituras em ambiente linux.
   
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
