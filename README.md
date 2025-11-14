@@ -111,7 +111,7 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
   
 - [Criar links home](https://github.com/tuxslack/criar_links_home/): Cria link das principais pastas do usuário em outra partição do dispositivo de armazenamento.
   
-- [Indicador de teclas](https://github.com/tuxslack/indicador_de_teclas/): Indicador de teclas (Caps Lock e Num Lock) foi testado no Xfce e OpenBox.
+- [Indicador de teclas](https://github.com/tuxslack/indicador_de_teclas/): Indicador de teclas (Caps Lock e Num Lock) foi testado no Xfce e no OpenBox.
 
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
