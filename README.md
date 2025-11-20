@@ -113,6 +113,8 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
   
 - [Indicador de teclas](https://github.com/tuxslack/indicador_de_teclas/): Indicador de teclas (Caps Lock e Num Lock) foi testado no Xfce e no OpenBox.
 
+- [Instalador de fontes](https://github.com/tuxslack/font-installer/): Script para instalar rapidamente várias fontes (compatível com Thunar e Nautilus).
+
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
