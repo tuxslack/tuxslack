@@ -115,6 +115,7 @@ Para serviços de informática consulte aqui: https://tuxslack.github.io/
 
 - [Instalador de fontes](https://github.com/tuxslack/font-installer/): Script para instalar rapidamente várias fontes (compatível com Thunar e Nautilus).
 
+- [Lenspect em pt_BR](https://github.com/tuxslack/lenspect): Um scanner de ameaças de segurança leve, projetado para tornar a detecção de malware mais acessível e eficiente.
 
 <!-- - [](): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo]().  -->
 
